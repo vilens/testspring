@@ -13,8 +13,8 @@ public class TestController {
         return "test1";
     }
 
-    @RequestMapping("/test2")
-    public Object test2(){
-        return "test2";
+    @RequestMapping("/test3")
+    public Object test3(){
+        return "test3";
     }
 }
